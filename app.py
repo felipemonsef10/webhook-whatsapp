@@ -3,7 +3,7 @@ import os
 from pathlib import Path
 import json
 from dotenv import load_dotenv
-from src.data_manipulation import pipeline_data_processing
+
 load_dotenv()
 
 app = Flask(__name__)
