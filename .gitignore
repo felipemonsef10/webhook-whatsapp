@@ -12,6 +12,7 @@ wheels/
 data/
 notebooks/
 logs/
+tests/
 
 src/logs.py
 main.py
